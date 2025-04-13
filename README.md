@@ -51,24 +51,42 @@ This system *maximizes efficiency, **reduces food waste, and **ensures food reac
 
 
 
-![image](https://github.com/user-attachments/assets/7fb136a5-efb5-42c1-8eff-5f3a10f15e6b)
+![Screenshot 2025-04-13 062439](https://github.com/user-attachments/assets/8e106f3b-42be-4435-8099-014b542486df)
+
 Home page
-![image](https://github.com/user-attachments/assets/be760286-99e1-4d1c-9718-1fde7551b633)
+
+![Screenshot 2025-04-13 062636](https://github.com/user-attachments/assets/f333613f-cd28-466a-bb3d-6b7f6a6dfa29)
+
 Regestration Page
-![image](https://github.com/user-attachments/assets/8acd7517-626b-4d9e-ab33-cc1d35020621)
+
+![Screenshot 2025-04-13 063210](https://github.com/user-attachments/assets/5e569fd9-c094-4dc1-8e75-75c94fa4ba59)
+
+
 regestration successful
-![image](https://github.com/user-attachments/assets/758d84e9-6959-4b14-ab9f-c962871416d8)
+
+![Screenshot 2025-04-13 062818](https://github.com/user-attachments/assets/9c4077f3-5be8-4092-9dc1-9deeebc0aca0)
+
 confermation mail
-![image](https://github.com/user-attachments/assets/764a804d-73eb-4fa5-8729-936e9f243243)
+
+![Screenshot 2025-04-13 062902](https://github.com/user-attachments/assets/0fbb0bc2-46f1-47f8-8e08-f0297651480d)
+
 sign in page
-![image](https://github.com/user-attachments/assets/49750d9b-90ad-4b7c-9ea7-386529e42740)
+
+![Screenshot 2025-04-13 063621](https://github.com/user-attachments/assets/8b148237-e736-40ac-9598-83b6be8da9dd)
+
 donor panel
-![image](https://github.com/user-attachments/assets/5ce829c3-bc16-4f65-83d4-b312267d8acd)
+
+![Screenshot 2025-04-13 063739](https://github.com/user-attachments/assets/f3e63bb3-dc61-49d1-9881-9f280a56b250)
+
 my donation 
-![Image 2025-04-13 at 06 45 43_176f1c41](https://github.com/user-attachments/assets/200029ad-bb3a-4d89-8d2d-e213a72f2b31)
+
+![Image 2025-04-13 at 06 45 43_176f1c41](https://github.com/user-attachments/assets/1b864dda-b61e-43c9-b381-5883843c0a8d)
+
 live location of food
-![image](https://github.com/user-attachments/assets/c8b0a695-ac16-4b9c-83c2-8f10e0617c88)
-abou panel (admin panel)
+
+![Screenshot 2025-04-13 065223](https://github.com/user-attachments/assets/47186cde-663c-4cdd-9300-833cfb28f7eb)
+
+about panel (admin panel)
 
 
 
